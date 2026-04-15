@@ -12,7 +12,7 @@
 - 🤖 Exploring AI/ML Integration in Backend  
 - 🚀 Love building real-world scalable applications  
 - 🌱 Currently learning: **Machine Learning & System Design**  
-- 🎯 Goal: Full Stack Developer + AI Engineer  
+- 🎯 Goal: Full Stack Developer + AI Engineer
 
 ---
 
@@ -29,6 +29,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 
 ### Databases
@@ -48,12 +50,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-ScriptHub&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-ScriptHub&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-ScriptHub&layout=compact&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-ScriptHub&show_icons=true&theme=tokyonight" /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-ScriptHub&theme=tokyonight" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-ScriptHub&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
   
 
